@@ -16,6 +16,11 @@ section.abertura{
     display: grid;
     grid-template-columns:  1fr 1fr 1fr ;
 }
+
+section.menu{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr 1fr ;
+}
 section.abertura2{
     margin: 0 auto 70px auto;
     width: 90%;
