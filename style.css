@@ -1,0 +1,23 @@
+header, main, footer {
+    text-align: center;
+}
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+    font-family: 'Roboto', sans-serif;
+    background-color:#EEE9E9;
+}
+
+section.abertura{
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr ;
+}
+section.abertura2{
+    margin: 0 auto 70px auto;
+    width: 90%;
+    max-width: 500px;
+}
